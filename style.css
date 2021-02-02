@@ -1,0 +1,15 @@
+.navLinks {
+  padding: 30px;
+}
+
+.navLink {
+  height: 20px;
+  padding: 20px;
+  background-color: rgb(180, 179, 240);
+  opacity: 100;
+  display: inline;
+}
+
+.img {
+  height: 200px;
+}
